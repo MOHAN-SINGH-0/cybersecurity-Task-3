@@ -48,5 +48,6 @@ Vulnerability Detected:
 ## What I Learned
 
 - How to perform a real vulnerability scan
+- What CVSS scores mean
 - Basic ways to fix or reduce risk
 - The difference between vulnerabilities vs false positives
