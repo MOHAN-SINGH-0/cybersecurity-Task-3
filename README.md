@@ -14,7 +14,7 @@ To perform a basic vulnerability scan on my local PC using Nessus Essentials and
 
 ##  Vulnerability Found
 
-1 vulnerability Found 
+1 vulnerability Found :
 Vulnerability Name :- Vulnerabilities CVE-2024-35264,CVE-2024-30105,CVE-2024-38081,CVE-2024-38095 are fixed in .NET Desktop Runtime (x64) (8.0.7)
 Risk Level:- Critical
 
